@@ -9,6 +9,8 @@
 sudo apt update
 sudo apt install ros-rolling-turtlesim
 ```
+![11](https://user-images.githubusercontent.com/92029196/192182768-074e5a2e-8f33-48f3-92f6-6d6d4d863684.png)
+
 
 ### - Starting and Running the Turtle
 *The first command here opens the simulator windows with the turtle in the center and in order to control the turtle, the second command was used. Once the command is executed in the new terminal, the turtle was able to be controlled using the arrow keys and the path of movement was visible as shown in the image below. 
@@ -42,3 +44,10 @@ ros2 run rqt_console rqt_console
 *In the new terminal, the rqt_console command was executed with the above code and the new window that appeared is shown in the image here.*
 
 ![rqt_console](https://user-images.githubusercontent.com/92029196/192182463-8a8bcd3e-15d2-4a86-aa46-e55d8f896892.png)
+
+### Spawn Scenario 
+![Spawn Service](https://user-images.githubusercontent.com/92029196/192183251-868d7cb1-1496-4bbd-b15e-37efa9e65ccf.png)
+
+
+### Stop Simulation 
+Ctrl+C will stop the simulation easily. 
