@@ -16,6 +16,10 @@ sudo apt install ros-rolling-turtlesim
 ros2 run turtlesim turtlesim_node
 ros2 run turtlesim turtle_teleop_key
 ```
+![Ritik_1](https://user-images.githubusercontent.com/92029196/192182325-5fd2d282-b29d-4595-b7eb-8b1cffbe303e.png)
+
+![RunningTurtle](https://user-images.githubusercontent.com/92029196/192182401-c70ddf25-3ff0-49f8-ba88-8874d18d6d60.png)
+
 
 
 ### Installing rqt
@@ -37,3 +41,4 @@ ros2 run rqt_console rqt_console
 ```
 *In the new terminal, the rqt_console command was executed with the above code and the new window that appeared is shown in the image here.*
 
+![rqt_console](https://user-images.githubusercontent.com/92029196/192182463-8a8bcd3e-15d2-4a86-aa46-e55d8f896892.png)
