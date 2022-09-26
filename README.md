@@ -35,4 +35,5 @@ sudo apt install ~nros-rolling-rqt*
 ```
 ros2 run rqt_console rqt_console
 ```
-*In the new terminal, the rqt_console command was executed with the above code and the new window that appeared is shown in the image here.
+*In the new terminal, the rqt_console command was executed with the above code and the new window that appeared is shown in the image here.*
+
